@@ -1,0 +1,26 @@
+{
+  "name": "restaurant_page",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000R\u0000e\u0000s\u0000t\u0000a\u0000u\u0000r\u0000a\u0000n\u0000t\u0000_\u0000P\u0000a\u0000g\u0000e\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaneGreen/Restaurant_Page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomaneGreen/Restaurant_Page/issues"
+  },
+  "homepage": "https://github.com/RomaneGreen/Restaurant_Page#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "file-loader": "^1.1.6",
+    "style-loader": "^0.20.1",
+    "url-loader": "^0.6.2",
+    "webpack": "^3.10.0"
+  }
+}
